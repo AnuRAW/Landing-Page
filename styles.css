@@ -1,0 +1,136 @@
+:root{
+    --dark:#000000
+    --light:#1E1E1E;
+}
+body{
+    background-color: black;
+}
+header{
+    clip-path: polygon(0 0,0 0,0 0,0 0,);
+}
+.nav-link{
+    color: white;
+    
+}
+.navbar-brand{
+    position: absolute;
+    color: white;
+    position: absolute;
+    width: 173px;
+    height: 29px;
+    left: 38px;
+    top: 29p;
+}
+.left{
+    color: white;   
+margin: 40px;
+}
+.h1{
+   font-size: 150px;
+   color: white;
+}
+.h2{
+    font-size: 150px;
+    color: white;
+}
+.h3{
+    font-size: 150px;
+    color: white;
+}
+.about{
+    color: white;
+
+}
+section{
+    padding: 6rem 0;
+}
+.men{
+    display: flex;
+    align-items: center;
+}
+.right{
+    margin-left:100px ;
+    padding-top: 400px;
+}
+.about{
+    background-color: white;
+}
+.arrow{
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.arrow p{
+color: white;
+margin-left: 700px;
+margin-top: 50px;
+font-size: 40px;
+}
+.about{
+    color: black;
+}
+.container{
+ display: flex;
+ align-items: center;
+}
+.cont{
+    margin-left: 100px;
+    padding-bottom: 200px;
+}
+#h1{
+    font-size: 80px;
+}
+#our{
+    background-color: white;
+}
+#h2{
+    font-size: 80px;
+    margin: 30px;
+}
+.item{
+    margin: 20px 20px 20px 20px;
+    padding: 10px;
+}
+#first{
+    display: flex;
+    justify-content: space-between;
+    background-color:white;
+}
+#Computer{
+    background-color:white;
+    border: 1px solid black;
+}
+#Fruit{
+    border: 1px solid black;
+}
+#Phone{
+    border: 1px solid black;
+}
+#thick{
+    background-color:black;
+    height: 4px;
+    display:block;
+    border-radius: 2px solid black;
+}
+#h3{
+    font-size: 80px;
+  margin-left :30vw;
+  margin-top: 50px;
+  color: white;
+}
+#form{
+ margin : 30px;
+ margin-left: 30vw;
+ background-color: black;
+}
+.one{
+    position:absolute; 
+    width: 60vw;
+    background-color: black;
+    margin-right: 100px;
+    
+}
+#five{
+width: 5vw;
+margin-left: 30vw;
+}
